@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 **`Software Developer (Backend Developer/Web Developer/Creator)`**
 
-Hello, my name is Rene Franco. I hold an associate degree in computer science, and I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.
+Hello, my name is Rene Franco. I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.
 
 
 
