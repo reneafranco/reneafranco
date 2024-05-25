@@ -76,9 +76,7 @@
 **reneafranco/reneafranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 
-# 🏄‍♂️ Rene Adonay
-
-**`Software Developer (Backend Developer/Web Developer/Creator)`**
+**Software Developer (Backend Developer/Web Developer/Creator)**
 
 Hello, my name is Rene Franco. I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.
 
