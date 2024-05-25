@@ -8,7 +8,7 @@
 
 <br/>
 
-<h2> I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.</h2>
+<h4> I've had a deep passion for technology since my early years. I've always been fascinated by the process of building things, which led me to pursue a career in the tech industry. My primary goal is to leverage my passion for technology to create innovative tools that can benefit society.</h4>
 
 <div align="center">
  
