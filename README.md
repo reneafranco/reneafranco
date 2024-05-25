@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a network scanner**
  
  🌱 I’m currently learning **Docker, AWS**
 
