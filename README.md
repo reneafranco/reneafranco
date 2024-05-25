@@ -82,8 +82,5 @@
 
 **Software Developer (Backend Developer/Web Developer/Creator)**
 
-Hello, my name is Rene Franco.
-
-
 [website]: [https://fkcodes.com](https://renefranco.netlify.app/)
 [youtube]: https://youtube.com/MedusaDev
