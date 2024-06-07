@@ -20,7 +20,7 @@
 
 💬 Ask me about **Java, Spring Boot, RDBMS... or anything [here](https://github.com/reneafranco/reneafranco/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs** -->
 
  </div>
  
