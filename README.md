@@ -82,5 +82,5 @@
 
 **Software Developer (Backend Developer/Web Developer/Creator)**
 
-[website]: [https://fkcodes.com](https://renefranco.com/)
+[website]: https://renefranco.com
 [youtube]: https://youtube.com/MedusaDev
