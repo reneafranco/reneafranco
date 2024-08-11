@@ -82,5 +82,5 @@
 
 **Software Developer (Backend Developer/Web Developer/Creator)**
 
-[website]: https://www.renefranco.com
+[website]: https://www.reneafranco.com
 [youtube]: https://youtube.com/MedusaDev
